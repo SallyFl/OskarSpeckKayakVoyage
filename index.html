@@ -64,7 +64,7 @@ a:active {
 
 .footer {
     position: relative;
-    height: 70px;
+    height: 60px;
     bottom:0;
     background-color: red;
     font-family: 'IBM Plex Serif', serif;
@@ -317,7 +317,7 @@ g.selectAll(".point")
 
 //go to object page on click - if statement prevents going to blank url
 //remove for now as doesn't work so well on mobile
-/*
+
     .on("click", function(d){
       if(d.properties.url !== null && d.properties.url  !== '') {
          window.open(d.properties.url, '_blank', 'location=yes,height=600,width=960,scrollbars=yes,status=yes')
@@ -326,7 +326,7 @@ g.selectAll(".point")
         .style("fill", "#0B4C5F") //teal if visited
         .style("stroke", "#0B4C5F");
     })
-*/
+
     .on("mouseover", function(d) {
       d3.select(this)
           .transition()
