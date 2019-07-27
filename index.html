@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -73,21 +72,10 @@ a:active {
     font-size: 1em;
     padding: 15px;
 }
-.acknowledgment {
-    position: relative;
-    height: 10px;
-    bottom:0;
-    background-color: red;
-    font-family: 'IBM Plex Serif', serif;
-    color: #ffffff;
-    text-align: right;
-    font-size: 0.75em;
-    padding: 15px;
-}
 
-.point{
+.place_visited{
   stroke: white;
-  fill:#A4A4A4;//light grey
+  fill:#A4A4A4;/*light grey*/
   stroke-width: 1px;
 }
 .journey{
@@ -97,6 +85,7 @@ a:active {
   stroke-dasharray: 4px,4px;
 }
 
+
 #container{
   min-height: 100%;
   postion: relative;
@@ -104,7 +93,7 @@ a:active {
 
 #cityName{
   line-height:2em;
-  font-size:1.05em;
+  font-size:1.5em;
   color: red;
   font-family: 'IBM Plex Serif', serif;
 }
@@ -228,9 +217,6 @@ a:active {
 <div class="footer">
   <p><a href="http://collections.anmm.gov.au">This map uses images and data from the collection of the Australian National Maritime Museum</a></p>
 </div>
-<div class="acknowledgment">
-  <p>© Sally Fletcher</p>
-</div>
 
 </div>
 
@@ -244,6 +230,10 @@ var projection = d3.geoMercator()
       .center([55, 12])
       .scale(220)
       .translate([width/2,height/2])
+
+var zoom = d3.zoom()
+.scaleExtent([1,8])
+.on("zoom", zoomed)
 
 var path = d3.geoPath()
 			 .projection(projection);
@@ -259,7 +249,9 @@ var svg = d3.select(".map").append("svg")
     .attr("preserveAspectRatio", "xMidYMid")
     .attr("viewBox", "0 0 " + width + " " + height)
     .attr("width", m_width)
-    .attr("height", m_width * height / width);
+    .attr("height", m_width * height / width)
+  .call(zoom);;
+
 
 var g = svg.append("g");
 
@@ -289,10 +281,10 @@ function ready (error, world, data){
 		.style("fill", "white");
 
 //Journey path
-  var linepath = g.append("path")
+  var journey = g.append("path")
     .attr("d",pathline(geojson))
     .attr("fill","none")
-    .attr("class", "journey")//fix styling
+    .attr("class", "journey")
     .style('stroke-dasharray', function(d) {
       var l = d3.select(this).node().getTotalLength();
       return l + 'px, ' + l + 'px';
@@ -301,31 +293,23 @@ function ready (error, world, data){
       return d3.select(this).node().getTotalLength() + 'px';
      });
 
-     var pathEl= linepath.node();
+     var pathEl= journey.node();
      var pathLength = pathEl.getTotalLength();
 
      var pt = pathEl.getPointAtLength(0);
 
-//Cities visited
-g.selectAll(".point")
+//Places visited
+g.selectAll(".place_visited")
 	  .data(data.features)
 		.enter()
 		.append("circle")
     .attr("r", "4")
-		.attr("class", "point")
+		.attr("class", "place_visited")
 	  .attr("transform", function(d,i) { return "translate(" + projection (data.features[i].geometry.coordinates) + ")"; })
+
 
 //go to object page on click - if statement prevents going to blank url
 //remove for now as doesn't work so well on mobile
-
-    .on("click", function(d){
-      if(d.properties.url !== null && d.properties.url  !== '') {
-         window.open(d.properties.url, '_blank', 'location=yes,height=600,width=960,scrollbars=yes,status=yes')
-    }
-      d3.select(this)
-        .style("fill", "#0B4C5F") //teal if visited
-        .style("stroke", "#0B4C5F");
-    })
 
     .on("mouseover", function(d) {
       d3.select(this)
@@ -335,10 +319,9 @@ g.selectAll(".point")
             if(d.properties.url !== null && d.properties.url  !== '') {
                return "#FE642E" //orange if url exists
             }else {return "#A4A4A4"} //light grey if no url to go to
-             ;})
-          .attr("r", "4");
+             ;});
 
-//Update the tooltip image and data
+// Update the tooltip image and data
     d3.select("#tooltip")
     .select("#link")
     .attr("href", d.properties.url);
@@ -373,21 +356,22 @@ g.selectAll(".point")
 
 //Hide the tooltip - comment out for now so image remains in tool tip in div to right
 //d3.select("#tooltip").classed("hidden", true);
-})
+ })
 
 var marker = g.append("image")
+.attr("class", "kayak")
 .attr("xlink:href", "kayak.png")
 .attr("transform", "translate(" + pt.x + "," + pt.y +")")
-.attr("width", 30) //need both width and height for this png to show up in Safari and Firefox
+.attr("width", 30)
 .attr("height", 30);
 
 
-var dateText = g.append("text")
+var dateText = svg.append("text")
   .attr("id", "dataTitle")
   .text ("")
-  .attr("x", 20)
-  .attr("y", 20);
-
+  .attr("x", width -30)
+  .attr("y", 20)
+.style("text-anchor","end");
 
 var animateMapButton = d3.select(".map")
     .append('button')
@@ -420,7 +404,7 @@ function toggleAnimating(){
       .duration(500)
       .attr("transform", "translate(" + pt.x + "," + pt.y +")");
 
-    linepath
+  journey
       .transition()
       .duration(500)
       .ease(d3.easeLinear)
@@ -441,16 +425,28 @@ function toggleAnimating(){
       isAnimating = !isAnimating;
       }
 
-/*
-// zoom and pan
-var zoomed = function(){
-	g.attr("transform", d3.event.transform);
 }
 
-svg.call(d3.zoom()
-.scaleExtent([1/2, 12])
-.on("zoom", zoomed));
-*/
+//semantic zoom and pan
+function zoomed(){
+  g.style("stroke-width", 1.5 / d3.event.transform.k + "px");
+  g.attr("transform", d3.event.transform);
+
+  g.selectAll(".place_visited")
+        .attr("r", function(){
+            var self = d3.select(this);
+            var r = 5 / d3.event.transform.k;
+            self.style("stroke-width", 1/ d3.event.transform.k + "px")
+            return r;
+        });
+
+g.selectAll(".kayak")
+      .attr("width", 30 / d3.event.transform.k)
+      .attr("height", 30 / d3.event.transform.k)
+
+g.selectAll(".journey")
+  .style("stroke-width", 1.5 / d3.event.transform.k + "px");
+
 }
 
 //resize
@@ -465,3 +461,4 @@ $(window).resize(function() {
 </script>
 </body>
 </html>
+
