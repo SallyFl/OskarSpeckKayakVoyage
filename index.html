@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,6 +28,9 @@
     float: left;
     padding: 15px;
 }
+body{
+    font-family: sans-serif;
+}
 
 svg {
     background-color:#d4d4e7;
@@ -36,13 +40,8 @@ svg {
     overflow:hidden;
 }
 
-circle {
-  fill: steelblue;
-  stroke: steelblue;
-  stroke-width: 1px;
-}
 
-a:link { /* Essentially means a[href], or that the link actually goes somewhere */
+a:link {
   color: white;
 }
 a:visited {
@@ -55,8 +54,8 @@ a:active {
   color: white;
 }
 .header {
-    font-family: 'IBM Plex Serif', serif;
-    background-color:#848484;
+    font-family: sans-serif;
+    background-color: #f48556;
     color: #ffffff;
     padding: 15px;
 }
@@ -65,8 +64,7 @@ a:active {
     position: relative;
     height: 60px;
     bottom:0;
-    background-color: red;
-    font-family: 'IBM Plex Serif', serif;
+    background-color: #3b305b;
     color: #ffffff;
     text-align: center;
     font-size: 1em;
@@ -80,7 +78,7 @@ a:active {
 }
 .journey{
   fill: none;
-  stroke: #FA5882;
+  stroke:#3b305b;
   stroke-width: 3;
   stroke-dasharray: 4px,4px;
 }
@@ -94,17 +92,15 @@ a:active {
 #cityName{
   line-height:2em;
   font-size:1.5em;
-  color: red;
-  font-family: 'IBM Plex Serif', serif;
+  color: #3b305b;
 }
 
 #date{
   font-size:1em;
-  font-family: 'IBM Plex Serif', serif;
+  color:#6E6E6E;
 }
 
 #dataTitle{
-  font-family: 'IBM Plex Serif', serif;
   font-size: 20px;
   fill: #6E6E6E;
 }
@@ -114,7 +110,6 @@ a:active {
   -webkit-border-radius: 2;
   -moz-border-radius: 2;
   border-radius: 2px;
-  font-family: 'IBM Plex Serif', serif;
   color: #ffffff;
   font-size: 15px;
   text-decoration: none;
@@ -122,12 +117,12 @@ a:active {
 }
 
 #animateMap:hover {
-  background: orange;
+  background: #f48556;
   text-decoration: none;
 }
 
 #tooltip {
-  color: #6E6E6E;
+  color: #3b305b;
   width:auto;
   height: auto;
   padding: 10px;
@@ -317,7 +312,7 @@ g.selectAll(".place_visited")
           .duration(50)
           .style("fill", function(d) {
             if(d.properties.url !== null && d.properties.url  !== '') {
-               return "#FE642E" //orange if url exists
+               return "#f48556" //orange if url exists
             }else {return "#A4A4A4"} //light grey if no url to go to
              ;});
 
@@ -461,4 +456,3 @@ $(window).resize(function() {
 </script>
 </body>
 </html>
-
