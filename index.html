@@ -298,7 +298,7 @@ g.selectAll(".place_visited")
 	  .data(data.features)
 		.enter()
 		.append("circle")
-    .attr("r", "4")
+    .attr("r", "7")
 		.attr("class", "place_visited")
 	  .attr("transform", function(d,i) { return "translate(" + projection (data.features[i].geometry.coordinates) + ")"; })
 
