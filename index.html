@@ -196,7 +196,6 @@ a:active {
   <div class="col-3 col-s-12">
   <div id="tooltip">
   <a href="http://collections.anmm.gov.au/en/people/details/6904" id ="link"><img src="images/ANMS1249[019].jpg" id="pic"></a>
-
     <p><span id="cityName">Oskar Speck</span></p>
     <p><span id="date">Oskar Speck was a German adventurer who paddled his kayak, <i>Sunnschien</i>, from Germany to Australia in the 1930s. His journey took him over 7 years.
 
@@ -298,14 +297,22 @@ g.selectAll(".place_visited")
 	  .data(data.features)
 		.enter()
 		.append("circle")
-    .attr("r", "7")
+    .attr("r", "5")
 		.attr("class", "place_visited")
 	  .attr("transform", function(d,i) { return "translate(" + projection (data.features[i].geometry.coordinates) + ")"; })
 
 
 //go to object page on click - if statement prevents going to blank url
 //remove for now as doesn't work so well on mobile
-
+.on("click", function(d){
+  if(d.properties.url !== null && d.properties.url  !== '') {
+     window.open(d.properties.url, '_blank', 'location=yes,height=600,width=960,scrollbars=yes,status=yes')
+//}
+  d3.select(this)
+    .style("fill", "#0B4C5F") //teal if visited
+    .style("stroke", "#0B4C5F");
+  }
+})
     .on("mouseover", function(d) {
       d3.select(this)
           .transition()
@@ -313,13 +320,14 @@ g.selectAll(".place_visited")
           .style("fill", function(d) {
             if(d.properties.url !== null && d.properties.url  !== '') {
                return "#f48556" //orange if url exists
-            }else {return "#A4A4A4"} //light grey if no url to go to
-             ;});
+            }else {return "#CbD4C6"} //sand if no url to go to
+             ;})//;
 
 // Update the tooltip image and data
-    d3.select("#tooltip")
-    .select("#link")
-    .attr("href", d.properties.url);
+   // d3.select("#tooltip")
+   //
+   // d3.select("#link")
+   // // .attr("href", d.properties.url);
 
     d3.select("#date")
     .text(d.properties.arrivalDateTxt);
@@ -456,3 +464,4 @@ $(window).resize(function() {
 </script>
 </body>
 </html>
+
