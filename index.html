@@ -298,7 +298,7 @@ g.selectAll(".place_visited")
 		.append("circle")
     .attr("r", function(d) {
       if(d.properties.url !== null && d.properties.url  !== '') {
-         return "7" //larger if url exists
+         return "5" //larger if url exists
       }else {return "4"};})
 		.attr("class", "place_visited")
 	  .attr("transform", function(d,i) { return "translate(" + projection (data.features[i].geometry.coordinates) + ")"; })
