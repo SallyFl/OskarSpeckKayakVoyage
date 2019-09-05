@@ -19,6 +19,13 @@ body{
 }
 footer{
   margin-top:auto;
+    height: 60px;
+    bottom:0;
+    background-color: #3b305b;
+    color: #ffffff;
+    text-align: center;
+    font-size: 1em;
+    padding: 15px;
 }
 svg {
     background-color:#d4d4e7;
@@ -45,18 +52,6 @@ a:active {
     font-family: sans-serif;
     background-color: #f48556;
     color: #ffffff;
-    padding: 15px;
-}
-
-.footer {
-    /* position: relative; */
-    position:absolute;
-    height: 60px;
-    bottom:0;
-    background-color: #3b305b;
-    color: #ffffff;
-    text-align: center;
-    font-size: 1em;
     padding: 15px;
 }
 
