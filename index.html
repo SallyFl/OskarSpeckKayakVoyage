@@ -195,8 +195,8 @@ a:active {
 
   <div class="col-3 col-s-12">
   <div id="tooltip">
-  <a href="http://collections.anmm.gov.au/en/collections/83050/oskar-speck" id ="link"><img src="images/ANMS1249[019].jpg" id="pic"></a>
-
+  <!-- <a href="http://collections.anmm.gov.au/en/people/details/6904" id ="link"><img src="images/ANMS1249[019].jpg" id="pic"></a> -->
+    <a href="http://collections.anmm.gov.au/en/collections/83050/oskar-speck" id ="link"><img src="images/ANMS1249[019].jpg" id="pic"></a>
     <p><span id="cityName">Oskar Speck</span></p>
     <p><span id="date">Oskar Speck was a German adventurer who paddled his kayak, <i>Sunnschien</i>, from Germany to Australia in the 1930s. His journey took him over 7 years.
 
@@ -247,7 +247,6 @@ var svg = d3.select(".map").append("svg")
     .attr("height", m_width * height / width)
   .call(zoom);;
 
-
 var g = svg.append("g");
 
 d3.queue()
@@ -276,7 +275,7 @@ function ready (error, world, data){
 		.style("fill", "white");
 
 //Journey path
-  var journey = g.append("path")
+var journey = g.append("path")
     .attr("d",pathline(geojson))
     .attr("fill","none")
     .attr("class", "journey")
@@ -286,41 +285,45 @@ function ready (error, world, data){
     })
     .style('stroke-dashoffset', function(d) {
       return d3.select(this).node().getTotalLength() + 'px';
-     });
+ });
 
-     var pathEl= journey.node();
-     var pathLength = pathEl.getTotalLength();
+ var pathEl= journey.node();
+ var pathLength = pathEl.getTotalLength();
 
-     var pt = pathEl.getPointAtLength(0);
+ var pt = pathEl.getPointAtLength(0);
 
 //Places visited
 g.selectAll(".place_visited")
 	  .data(data.features)
 		.enter()
 		.append("circle")
-    .attr("r", "4")
+    .attr("r", function(d) {
+      if(d.properties.url !== null && d.properties.url  !== '') {
+         return "6" //larger if url exists
+      }else {return "4"};})
 		.attr("class", "place_visited")
 	  .attr("transform", function(d,i) { return "translate(" + projection (data.features[i].geometry.coordinates) + ")"; })
 
-
 //go to object page on click - if statement prevents going to blank url
-//remove for now as doesn't work so well on mobile
-
-    .on("mouseover", function(d) {
-      d3.select(this)
-          .transition()
-          .duration(50)
-          .style("fill", function(d) {
-            if(d.properties.url !== null && d.properties.url  !== '') {
-               return "#f48556" //orange if url exists
-            }else {return "#A4A4A4"} //light grey if no url to go to
-             ;});
+.on("click", function(d){
+  if(d.properties.url !== null && d.properties.url  !== '') {
+     window.open(d.properties.url, '_blank', 'location=yes,height=600,width=960,scrollbars=yes,status=yes')
+//}
+  d3.select(this)
+    .style("fill", "#0B4C5F") //teal if visited
+    .style("stroke", "#0B4C5F");
+  }
+})
+  .on("mouseover", function(d) {
+    d3.select(this)
+        .transition()
+        .duration(50)
+        .style("fill", function(d) {
+          if(d.properties.url !== null && d.properties.url  !== '') {
+             return "#f48556" //orange if url exists
+          }else {return "#CbD4C6"};})
 
 // Update the tooltip image and data
-    d3.select("#tooltip")
-    .select("#link")
-    .attr("href", d.properties.url);
-
     d3.select("#date")
     .text(d.properties.arrivalDateTxt);
 
@@ -337,29 +340,25 @@ g.selectAll(".place_visited")
       el.on("error", null);
     })
 
+//Show the tooltip
+  d3.select("#tooltip").classed("hidden", false);
+  })
+  .on("mouseout", function() {
+    d3.select(this)
+      .transition()
+      .delay(100)
+      .duration(250)
 
-    //Show the tooltip
-    d3.select("#tooltip").classed("hidden", false);
-})
-
-
-.on("mouseout", function() {
-      d3.select(this)
-        .transition()
-        .delay(100)
-        .duration(250)
-
-//Hide the tooltip - comment out for now so image remains in tool tip in div to right
-//d3.select("#tooltip").classed("hidden", true);
- })
+  //Hide the tooltip - comment out for now so image remains in tool tip in div to right
+  //d3.select("#tooltip").classed("hidden", true);
+   })
 
 var marker = g.append("image")
 .attr("class", "kayak")
 .attr("xlink:href", "kayak.png")
 .attr("transform", "translate(" + pt.x + "," + pt.y +")")
-.attr("width", 30)
-.attr("height", 30);
-
+.attr("width", 40)
+.attr("height", 40);
 
 var dateText = svg.append("text")
   .attr("id", "dataTitle")
@@ -369,11 +368,11 @@ var dateText = svg.append("text")
 .style("text-anchor","end");
 
 var animateMapButton = d3.select(".map")
-    .append('button')
-    .attr("id", "animateMap")
-    .text("Start Oskar's journey")
+  .append('button')
+  .attr("id", "animateMap")
+  .text("Start Oskar's journey")
 
-    animateMapButton.on("click", toggleAnimating)
+  animateMapButton.on("click", toggleAnimating)
 
 var animateTimer;
 var isAnimating = false
@@ -418,30 +417,31 @@ function toggleAnimating(){
       },500)
       }
       isAnimating = !isAnimating;
-      }
-
+    }
 }
 
 //semantic zoom and pan
 function zoomed(){
   g.style("stroke-width", 1.5 / d3.event.transform.k + "px");
   g.attr("transform", d3.event.transform);
-
   g.selectAll(".place_visited")
-        .attr("r", function(){
+        .attr("r", function(d){
+          if(d.properties.url !== null && d.properties.url  !== '') {
             var self = d3.select(this);
-            var r = 5 / d3.event.transform.k;
+            var r = 6 / d3.event.transform.k;
             self.style("stroke-width", 1/ d3.event.transform.k + "px")
             return r;
+          }else {
+            var self = d3.select(this);
+            var r = 4/ d3.event.transform.k;
+              self.style("stroke-width", 1/ d3.event.transform.k + "px")
+              return r}
         });
-
-g.selectAll(".kayak")
-      .attr("width", 30 / d3.event.transform.k)
-      .attr("height", 30 / d3.event.transform.k)
-
-g.selectAll(".journey")
-  .style("stroke-width", 1.5 / d3.event.transform.k + "px");
-
+  g.selectAll(".kayak")
+        .attr("width", 40 / d3.event.transform.k)
+        .attr("height", 40 / d3.event.transform.k)
+  g.selectAll(".journey")
+    .style("stroke-width", 1.5 / d3.event.transform.k + "px");
 }
 
 //resize
@@ -456,3 +456,4 @@ $(window).resize(function() {
 </script>
 </body>
 </html>
+
