@@ -55,18 +55,6 @@ a:active {
     padding: 15px;
 }
 
-.footer {
-    /* position: relative; */
-    position:absolute;
-    height: 60px;
-    bottom:0;
-    background-color: #3b305b;
-    color: #ffffff;
-    text-align: center;
-    font-size: 1em;
-    padding: 15px;
-}
-
 .place_visited{
   stroke: white;
   fill:#A4A4A4;/*light grey*/
