@@ -19,13 +19,13 @@ body{
 }
 footer{
   margin-top:auto;
-    height: 60px;
-    bottom:0;
-    background-color: #3b305b;
-    color: #ffffff;
-    text-align: center;
-    font-size: 1em;
-    padding: 15px;
+  height: 60px;
+  bottom:0;
+  background-color: #3b305b;
+  color: #ffffff;
+  text-align: center;
+  font-size: 1em;
+  padding: 15px;
 }
 svg {
     background-color:#d4d4e7;
