@@ -43,7 +43,7 @@ a:active {
 }
 
 .footer {
-    position: absolute;
+    position: relative;
     height: 60px;
     bottom:0;
     background-color: #3b305b;
