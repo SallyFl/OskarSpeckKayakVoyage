@@ -146,7 +146,7 @@ var dateText = svg.append("text")
   .text ("")
   .attr("x", width -30)
   .attr("y", 20)
-.style("text-anchor","end");
+  .style("text-anchor","end");
 
 var animateMapButton = d3.select(".map")
   .append('button')
@@ -154,6 +154,22 @@ var animateMapButton = d3.select(".map")
   .text("Start Oskar's journey")
 
   animateMapButton.on("click", toggleAnimating)
+
+var zoomIn = d3.select(".map")
+.append('button')
+.attr("id", "zoom-in")
+.text("+")
+.on('click', function() {
+	zoom.scaleBy(svg.transition().duration(750), 1.3);
+});
+
+var zoomOut = d3.select(".map")
+.append('button')
+.attr("id", "zoom-out")
+.text("-")
+.on('click', function() {
+  zoom.scaleBy(svg.transition().duration(750), 1/1.3);
+});
 
 var animateTimer;
 var isAnimating = false
