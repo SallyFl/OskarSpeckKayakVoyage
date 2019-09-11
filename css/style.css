@@ -29,12 +29,12 @@ footer{
 }
 svg {
     background-color:#d4d4e7;
+      /* background-color: #CED8F6; */
     margin-left:auto;
     margin-right:auto;
     display:inline;
     overflow:hidden;
 }
-
 
 a:link {
   color: white;
@@ -55,6 +55,18 @@ a:active {
     padding: 15px;
 }
 
+.footer {
+    /* position: relative; */
+    position:absolute;
+    height: 60px;
+    bottom:0;
+    background-color: #3b305b;
+    color: #ffffff;
+    text-align: center;
+    font-size: 1em;
+    padding: 15px;
+}
+
 .place_visited{
   stroke: white;
   fill:#A4A4A4;/*light grey*/
@@ -66,7 +78,6 @@ a:active {
   stroke-width: 3;
   stroke-dasharray: 4px,4px;
 }
-
 
 #container{
   min-height: 100%;
@@ -88,7 +99,7 @@ a:active {
   font-size: 20px;
   fill: #6E6E6E;
 }
-#animateMap {
+#animateMap, #zoom-in, #zoom-out {
   position: relative;
   background:  #6E6E6E;
   -webkit-border-radius: 2;
@@ -100,11 +111,10 @@ a:active {
   margin-bottom: 10px;
 }
 
-#animateMap:hover {
+#animateMap:hover, #zoom-in:hover, #zoom-out:hover{
   background: #f48556;
   text-decoration: none;
 }
-
 #tooltip {
   color: #3b305b;
   width:auto;
