@@ -1,0 +1,4016 @@
+{
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Hamburg",
+            "desc":"Hamburg, Germany",
+            "arrivalDateTxt":"13 May 1932",
+            "arrivalDate":"13-May-32",
+            "departureDateTxt":"13-May-32",
+            "objectNumber":"ANMS0545[368]",
+            "objectID":85860,
+            "url":"https://collections.sea.museum/objects/85860/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               9.993682,
+               53.551085
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Ulm",
+            "desc":"Ulm,  Germany",
+            "arrivalDateTxt":"14 May 1932",
+            "arrivalDate":"14-May-32",
+            "departureDateTxt":"14-May-32",
+            "objectNumber":"ANMS0533[020]",
+            "objectID":85834,
+            "url":"https://collections.sea.museum/objects/85834/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               9.993276,
+               48.397394
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Passau",
+            "desc":"Passau, Germany",
+            "arrivalDateTxt":"23 May 1932",
+            "arrivalDate":"23-May-32",
+            "departureDateTxt":"7-Jun-32",
+            "objectNumber":"ANMS0533[020]",
+            "objectID":85834,
+            "url":"https://collections.sea.museum/objects/85834/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               13.460645,
+               48.574014
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Budapest",
+            "desc":"Budapest, Hungry",
+            "arrivalDateTxt":"4 July 1932",
+            "arrivalDate":"4-Jul-32",
+            "departureDateTxt":"30-Jul-32",
+            "objectNumber":"ANMS0533[020]",
+            "objectID":85834,
+            "url":"https://collections.sea.museum/objects/85834/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               19.040471,
+               47.498382
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Vienna",
+            "desc":"Vienna, Austria",
+            "arrivalDateTxt":"30 June 1932",
+            "arrivalDate":"30-Jun-32",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0544[003]",
+            "objectID":84319,
+            "url":"https://collections.sea.museum/objects/84319/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               16.373819,
+               48.208174
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Belgrade",
+            "desc":"Belgrade, Serbia",
+            "arrivalDateTxt":"31 October 1932",
+            "arrivalDate":"31-Oct-32",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0533[020]",
+            "objectID":85834,
+            "url":"https://collections.sea.museum/objects/85834/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               20.456809,
+               44.817879
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Skopje",
+            "desc":"Skopje,Macedonia",
+            "arrivalDateTxt":"15 March 1933",
+            "arrivalDate":"15-Mar-33",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0546[016]",
+            "objectID":83925,
+            "url":"https://collections.sea.museum/objects/83925/",
+            "quote":"At the Bulgaria-Yugoslavia border I decided that the Danube was too tame.��� I wanted a new river to conquer, and just a short distance across country lay the Vardar River, which had never been navigated.��� Those upper reaches of the Vardar proved savage.���The river plunges through steep mountains, with a succession of fierce rapids waiting to hurl the canoeist onwards and downwards through the gorges. I reached Veles, in Macedonia, with half the kayak's ribs broken.���"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.431796,
+               41.996227
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Veles",
+            "desc":"Veles, Macedonia",
+            "arrivalDateTxt":"12 March 1933",
+            "arrivalDate":"12-Mar-33",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0534[001]",
+            "objectID":84748,
+            "url":"https://collections.sea.museum/objects/84748/",
+            "quote":"Then the Vardar froze over solid.��� Altogether, I was delayed five months in Veles.��� It was spring when I finally got away.���"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.780199,
+               41.715974
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Macedonian-Greek border",
+            "desc":"Border Macedonia Greece",
+            "arrivalDateTxt":"1 March 1933",
+            "arrivalDate":"1-Mar-33",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[012]",
+            "objectID":84280,
+            "url":"https://collections.sea.museum/objects/84280/",
+            "quote":"I crossed the Macedonian-Greek border?Around midnight I was awakened by shouting, and I pulled back the flap of my tent to find myself looking into two carbines, held by two frontier guards.  ?  We shared no language, so I showed them my passport.  After muttering over it for a while, one guard signed to me to mount the second guard's horse?He was a charming young officer.  Directly he saw the Greek visa on my passport, he offered profuse apologies, and followed this by insisting that I should come into his room and drink coffee and wine.  "
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               21.67619,
+               41.80612
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Salonika (Thessaloniki)",
+            "desc":"Thessaloniki, Municipality of Thessaloniki, Macedonia - Thrace Administration, Greece",
+            "arrivalDateTxt":"27 March 1933",
+            "arrivalDate":"27-Mar-33",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0533[002]",
+            "objectID":85816,
+            "url":"https://collections.sea.museum/objects/85816/",
+            "quote":"At Salonika I faced the sea at last.��� With few incidents, my voyage down the coast of Greece was a kayakist's dream, and at last I was beaching my kayak at Andros.��� "
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               22.935272,
+               40.640317
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Andros",
+            "desc":"Dimos Androu, Aegean Sea Administration, Greece",
+            "arrivalDateTxt":"14 April 1933",
+            "arrivalDate":"14-Apr-33",
+            "departureDateTxt":"15-Apr-33",
+            "objectNumber":"ANMS0545[302]",
+            "objectID":83865,
+            "url":"https://collections.sea.museum/objects/83865/",
+            "quote":"I was scarcely ashore when two little Greek girls in white Sunday dresses came across the sand towards me, carrying a round loaf of bread with three colored eggs sticking out of it.��� So it was Easter Day, and this was Andros' welcome!"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               24.862394,
+               37.840865
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Tinos",
+            "desc":"Tinos, Aegean Sea Administration, Greece",
+            "arrivalDateTxt":"1 April 1933",
+            "arrivalDate":"Apr-33",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[309]",
+            "objectID":83872,
+            "url":"https://collections.sea.museum/objects/83872/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.154086,
+               37.601971
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Mykonos",
+            "desc":"Mykonos, Aegean Sea Administration, Greece",
+            "arrivalDateTxt":"1 April 1933",
+            "arrivalDate":"Apr-33",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0544[019]",
+            "objectID":84335,
+            "url":"https://collections.sea.museum/objects/84335/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.392282,
+               37.451353
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Naxos",
+            "desc":"Naxos, Aegean Sea Administration, Greece",
+            "arrivalDateTxt":"1 April 1933",
+            "arrivalDate":"Apr-33",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.470741,
+               37.059862
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Amorgos",
+            "desc":"Amorgos, Aegean Sea Administration, Greece",
+            "arrivalDateTxt":"1 April 1933",
+            "arrivalDate":"Apr-33",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               25.898391,
+               36.852537
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Stampalia (Astypalaia)",
+            "desc":"Astypalaia, Greece",
+            "arrivalDateTxt":"3 May 1933",
+            "arrivalDate":"3-May-33",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[302]",
+            "objectID":83865,
+            "url":"https://collections.sea.museum/objects/83865/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               26.313136,
+               36.538981
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Cardamena (Kardamaina)",
+            "desc":"Kardamaina, Greece",
+            "arrivalDateTxt":"8 May 1933",
+            "arrivalDate":"8-May-33",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               27.143523,
+               36.782259
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Rhodes",
+            "desc":"Rhodes, Greece",
+            "arrivalDateTxt":"3 June 1933",
+            "arrivalDate":"3-Jun-33",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[022]",
+            "objectID":84290,
+            "url":"https://collections.sea.museum/objects/84290/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               28.217638,
+               36.43722
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Castelrosso (Kastellorizo)",
+            "desc":"Kastellorizo, Greece",
+            "arrivalDateTxt":"6 June 1933",
+            "arrivalDate":"6-Jun-33",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[300]",
+            "objectID":83863,
+            "url":"https://collections.sea.museum/objects/83863/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               29.586158,
+               36.14448
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Antalya",
+            "desc":"Antalya, Turkey",
+            "arrivalDateTxt":"June-July 1933",
+            "arrivalDate":"June-July 1933",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[022]",
+            "objectID":84290,
+            "url":"https://collections.sea.museum/objects/84290/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               30.713323,
+               36.896891
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Alaiye (Alanya) ",
+            "desc":"Alanya, Antalya, Turkey",
+            "arrivalDateTxt":"20 July 1933",
+            "arrivalDate":"20-Jul-33",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               31.995408,
+               36.544443
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Anamur",
+            "desc":"Anamur, Mersin, Turkey",
+            "arrivalDateTxt":"21 July 1933",
+            "arrivalDate":"21-Jul-33",
+            "departureDateTxt":"16-Aug-33",
+            "objectNumber":"ANMS0533[006]",
+            "objectID":85820,
+            "url":"https://collections.sea.museum/objects/85820/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               32.771129,
+               36.272313
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Cape Cormacity (Cape Kormakitis)",
+            "desc":"Cape Kormakitis, Cyprus",
+            "arrivalDateTxt":"1 August 1933",
+            "arrivalDate":"Aug-33",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0533[006]",
+            "objectID":85820,
+            "url":"https://collections.sea.museum/objects/85820/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               32.922635,
+               35.399285
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Lefka",
+            "desc":"Lefka, Cyprus",
+            "arrivalDateTxt":"20 August 1933",
+            "arrivalDate":"20-Aug-33",
+            "departureDateTxt":"21-Aug-33",
+            "objectNumber":"ANMS0544[020]",
+            "objectID":84336,
+            "url":"https://collections.sea.museum/objects/84336/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               32.842296,
+               35.096505
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Latchi",
+            "desc":"Latchi, Cyprus",
+            "arrivalDateTxt":"22 August 1933",
+            "arrivalDate":"22-Aug-33",
+            "departureDateTxt":"22-Aug-33",
+            "objectNumber":"ANMS0533[003]",
+            "objectID":85817,
+            "url":"https://collections.sea.museum/objects/85817/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               32.394339,
+               35.040588
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Limassol",
+            "desc":"Limassol, Cyprus",
+            "arrivalDateTxt":"26 August 1933",
+            "arrivalDate":"26-Aug-33",
+            "departureDateTxt":"27-Aug-33",
+            "objectNumber":"ANMS0542[039]",
+            "objectID":84307,
+            "url":"https://collections.sea.museum/objects/84307/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               32.985589,
+               34.794891
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Larnaca",
+            "desc":"Larnaca, Larnaca, Cyprus",
+            "arrivalDateTxt":"28 August 1933",
+            "arrivalDate":"28-Aug-33",
+            "departureDateTxt":"16-Sep-33",
+            "objectNumber":"ANMS0543[001]_Larnaca",
+            "objectID":84310,
+            "url":"https://collections.sea.museum/objects/84310/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               33.637853,
+               34.917201
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Famagusta",
+            "desc":"Famagusta, Famagusta, Turkish Republic of Northern Cyprus",
+            "arrivalDateTxt":"Sept-Oct 1933",
+            "arrivalDate":"Sept-Oct 1933",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               33.940236,
+               35.117664
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Cape Apostolos Andreas",
+            "desc":"Cape Apostolos Andreas, Cyprus",
+            "arrivalDateTxt":"20 October 1933",
+            "arrivalDate":"20-Oct-33",
+            "departureDateTxt":"30-Oct-33",
+            "objectNumber":"ANMS0543[001]_CapeAndreas",
+            "objectID":84310,
+            "url":"https://collections.sea.museum/objects/84310/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               34.583333,
+               35.7
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Latakia",
+            "desc":"Latakia, Latakia, Syria",
+            "arrivalDateTxt":"3 November 1933",
+            "arrivalDate":"3-Nov-33",
+            "departureDateTxt":"4-Nov-33",
+            "objectNumber":"ANMS0545[299]",
+            "objectID":83862,
+            "url":"https://collections.sea.museum/objects/83862/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               35.778104,
+               35.520019
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Aleppo",
+            "desc":"Aleppo, Aleppo, Syria",
+            "arrivalDateTxt":"1 November 1933",
+            "arrivalDate":"Nov-33",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0533[002]",
+            "objectID":85816,
+            "url":"https://collections.sea.museum/objects/85816/",
+            "quote":"After crossing to Syria I travelled by bus to Aleppo and from there via Mescene down the Euphrates, across Syria and Iraq and into the Shatt el Arab."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               37.16567,
+               36.197971
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Meskene (Maskanah)",
+            "desc":"Maskanah, Aleppo, Syria",
+            "arrivalDateTxt":"1 November 1933",
+            "arrivalDate":"Nov-33",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0533[002]",
+            "objectID":85816,
+            "url":"https://collections.sea.museum/objects/85816/",
+            "quote":"Since the kayak would have to be freighted either way, I decided that Suez offered a too well-beaten path-why not land on the Syrian coast and take the bus to Meskene?That would be something!"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               38.041278,
+               35.960035
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Rakka (ar Raqqah)",
+            "desc":"Ar-Raqqah, Syria",
+            "arrivalDateTxt":"7 November 1933",
+            "arrivalDate":"7-Nov-33",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[001]",
+            "objectID":84269,
+            "url":"https://collections.sea.museum/objects/84269/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               38.998105,
+               35.959411
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Basrah",
+            "desc":"Basrah, Iraq",
+            "arrivalDateTxt":"27 December 1933",
+            "arrivalDate":"27-Dec-33",
+            "departureDateTxt":"5-Feb-34",
+            "objectNumber":"ANMS1249[036]",
+            "objectID":134051,
+            "url":"https://collections.sea.museum/objects/134051/",
+            "quote":"My legs blue with cold, I arrived at Basra on the second day of Christmas"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               47.783489,
+               30.508103
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Al-Faw",
+            "desc":"Al Faw, Basra, Iraq",
+            "arrivalDateTxt":"Jan-March 1934",
+            "arrivalDate":"Jan-March 1934",
+            "departureDateTxt":"10-Feb-34",
+            "objectNumber":"ANMS1249[036]",
+            "objectID":134051,
+            "url":"https://collections.sea.museum/objects/134051/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               48.199745,
+               30.068278
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Bandar Deylam",
+            "desc":"Bandar Deylam, Bushehr Province, Iran",
+            "arrivalDateTxt":"February-March 1933",
+            "arrivalDate":"February-March 1933",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               50.167812,
+               30.058981
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Bushehr",
+            "desc":"Bushehr, Bushehr, Iran",
+            "arrivalDateTxt":"19 March 1934",
+            "arrivalDate":"19-Mar-34",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0533[002]",
+            "objectID":85816,
+            "url":"https://collections.sea.museum/objects/85816/",
+            "quote":"From Basra to Bushir would have taken me a journey time of eight days under normal circumstances, but because of heavy sea I needed 35 days. I was forced to wait on an empty island for an opportunity to carry on for seven days, although I barely had enough provisions for four days. The only company I had was from a half rotten corpse that had been carried through the cliffs, and the stench was unbearable."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               50.84033,
+               28.968547
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Bandar Abbas",
+            "desc":"Hormozgan Province, Iran",
+            "arrivalDateTxt":"May-August 1934",
+            "arrivalDate":"May-August 1934",
+            "departureDateTxt":"1-Sep-34",
+            "objectNumber":"ANMS0534[002]",
+            "objectID":84749,
+            "url":"https://collections.sea.museum/objects/84749/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               56.276645,
+               27.178121
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Hormuz Island",
+            "desc":"Hormozgan Province, Iran",
+            "arrivalDateTxt":"Sept-Nov 1934",
+            "arrivalDate":"Sept-Nov 1934",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               56.46417,
+               27.068024
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Bandar e Jask",
+            "desc":"Hormozgan Province, Iran",
+            "arrivalDateTxt":"21 December 1933",
+            "arrivalDate":"21-Dec-33",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               57.785668,
+               25.657701
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Gwadar",
+            "desc":"Gwandar, Balochistan, Pakistan",
+            "arrivalDateTxt":"19 November 1934",
+            "arrivalDate":"19-Nov-34",
+            "departureDateTxt":"21-Nov-34",
+            "objectNumber":"ANMS0542[022]",
+            "objectID":84290,
+            "url":"https://collections.sea.museum/objects/84290/",
+            "quote":"In Baluchistan my canoe had become too damaged to carry on seafaring. Nobody could believe that I had reached the harbour with that vessel. I repaired it by the book."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               62.286122,
+               25.246013
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Pasni",
+            "desc":"Pasni, Pakistan",
+            "arrivalDateTxt":"24 November 1934",
+            "arrivalDate":"24-Nov-34",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0544[016]",
+            "objectID":84332,
+            "url":"https://collections.sea.museum/objects/84332/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               63.415423,
+               25.271716
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Karachi",
+            "desc":"Karachi, Kar?���chi District, Sindh, Pakistan",
+            "arrivalDateTxt":"22 September 1934",
+            "arrivalDate":"22-Sep-34",
+            "departureDateTxt":"28-Sep-34",
+            "objectNumber":"ANMS0545[308]",
+            "objectID":83871,
+            "url":"https://collections.sea.museum/objects/83871/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               67.031129,
+               24.86678
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Mandvi",
+            "desc":"Mandvi, Kutch district, Gujarat, India",
+            "arrivalDateTxt":"1 January 1935",
+            "arrivalDate":"1-Jan-35",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[025]",
+            "objectID":84293,
+            "url":"https://collections.sea.museum/objects/84293/",
+            "quote":"Another part of my journey was the ride from Karachi to Kutch Mandvi in the last days of January. I had nothing to eat and lived off oysters that I could catch. It was oysters for breakfast, oysters for lunch and oysters for dinner."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               69.366474,
+               22.809346
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Porbandar",
+            "desc":"Porbandar, J?���mnagar, Gujarat, India",
+            "arrivalDateTxt":"30 January 1935",
+            "arrivalDate":"30-Jan-35",
+            "departureDateTxt":"4-Feb-35",
+            "objectNumber":"ANMS0544[015]",
+            "objectID":84331,
+            "url":"https://collections.sea.museum/objects/84331/",
+            "quote":"When I rode along the Porbandar coast, shaken by malaria and without having slept for days, I capsized in the surf for the first time. But I managed to get to shore and found admission to the hospital of the Maharajah of Porbandar and was treated for malaria by his personal physician."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               69.611,
+               21.6409
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Diu",
+            "desc":"Diu, India",
+            "arrivalDateTxt":"1 February 1935",
+            "arrivalDate":"1-Feb-35",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0546[001]",
+            "objectID":83910,
+            "url":"https://collections.sea.museum/objects/83910/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               70.910612,
+               20.716118
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Jafarabad",
+            "desc":"Jafarabad, Gujarat, India",
+            "arrivalDateTxt":"11 February 1935",
+            "arrivalDate":"11-Feb-35",
+            "departureDateTxt":"12-Feb-35",
+            "objectNumber":"ANMS0543[001]",
+            "objectID":84310,
+            "url":"https://collections.sea.museum/objects/84310/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               71.36538,
+               20.868177
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Port Albert-Victor (Bherai)",
+            "desc":"Bherai, Gujarat, India",
+            "arrivalDateTxt":"12 February 1935",
+            "arrivalDate":"12-Feb-35",
+            "departureDateTxt":"13-Feb-35",
+            "objectNumber":"ANMS0543[001]",
+            "objectID":84310,
+            "url":"https://collections.sea.museum/objects/84310/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               71.490785,
+               20.973167
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Gopnath",
+            "desc":"Gopnath, Bhavnagar, Gujarat, India",
+            "arrivalDateTxt":"13 February 1935",
+            "arrivalDate":"13-Feb-35",
+            "departureDateTxt":"14-Feb-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               72.033258,
+               21.425912
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Gulf of Khambhat",
+            "desc":"Gulf of Khambhat, India",
+            "arrivalDateTxt":"1 February 1935",
+            "arrivalDate":"Feb-35",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0533[002]",
+            "objectID":85816,
+            "url":"https://collections.sea.museum/objects/85816/",
+            "quote":"In the Gulf of Khambhat, I was arrested as a spy for two days. They believed of my canoe that it could be used equally as a submarine and an aeroplane and thus be perfectly adequate for spying."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               72.348404,
+               21.275017
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Surat",
+            "desc":"Surat, Gujarat, India",
+            "arrivalDateTxt":"1 February 1935",
+            "arrivalDate":"Feb-35",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0533[002]",
+            "objectID":85816,
+            "url":"https://collections.sea.museum/objects/85816/",
+            "quote":"Released with clemency, I crossed the Gulf of Khambhat to Surat, where a tidal range of 35 feet produces the most difficult water conditions."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               72.831061,
+               21.17024
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Daman",
+            "desc":"Daman, India",
+            "arrivalDateTxt":"1 February 1935",
+            "arrivalDate":"Feb-35",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               72.841598,
+               20.396991
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Port Vesava (Mumbai)",
+            "desc":"Mumbai, Greater Bombay, Maharashtra, India",
+            "arrivalDateTxt":"27 February 1935",
+            "arrivalDate":"27-Feb-35",
+            "departureDateTxt":"28-Feb-35",
+            "objectNumber":"ANMS0544[007]",
+            "objectID":84323,
+            "url":"https://collections.sea.museum/objects/84323/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               72.812181,
+               19.138446
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Bombay (Mumbai)",
+            "desc":"Mumbai, Greater Bombay, Maharashtra, India",
+            "arrivalDateTxt":"8 March 1935",
+            "arrivalDate":"8-Mar-35",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[285]",
+            "objectID":84624,
+            "url":"https://collections.sea.museum/objects/84624/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               72.832711,
+               18.95238
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Ratnagiri",
+            "desc":"Ratnagiri, Maharashtra, India",
+            "arrivalDateTxt":"18 March 1935",
+            "arrivalDate":"18-Mar-35",
+            "departureDateTxt":"19-Mar-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               73.312023,
+               16.990215
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Devgad",
+            "desc":"Devgad, Maharashtra, India",
+            "arrivalDateTxt":"20 March 1935",
+            "arrivalDate":"20-Mar-35",
+            "departureDateTxt":"21-Mar-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               73.388553,
+               16.37542
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Malvan",
+            "desc":"Malvan, Maharashtra, India",
+            "arrivalDateTxt":"21 March 1935",
+            "arrivalDate":"21-Mar-35",
+            "departureDateTxt":"22-Mar-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               73.471054,
+               16.063069
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Vengurka (Vengurla)",
+            "desc":"Vengurla, Goa, India",
+            "arrivalDateTxt":"22 March 1935",
+            "arrivalDate":"22-Mar-35",
+            "departureDateTxt":"23-Mar-35",
+            "objectNumber":"ANMS0545[290]",
+            "objectID":84629,
+            "url":"https://collections.sea.museum/objects/84629/",
+            "quote":"Then I paddled on to Goa and Mangalore, where I capsized the second time and lost my entire equipment."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               73.638904,
+               15.851414
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Goa",
+            "desc":"Goa, India",
+            "arrivalDateTxt":"24 March 1935",
+            "arrivalDate":"24-Mar-35",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0546[010]",
+            "objectID":83919,
+            "url":"https://collections.sea.museum/objects/83919/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               74.123996,
+               15.299327
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Karwar",
+            "desc":"Karwar, Karnataka, India",
+            "arrivalDateTxt":"28 March 1935",
+            "arrivalDate":"28-Mar-35",
+            "departureDateTxt":"28-Mar-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               74.141613,
+               14.818481
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Kumpta",
+            "desc":"Kumta, Karnataka, India",
+            "arrivalDateTxt":"29 March 1935",
+            "arrivalDate":"29-Mar-35",
+            "departureDateTxt":"30-Mar-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               74.419093,
+               14.427548
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Bhatkal",
+            "desc":"Bhatkal, Karnataka, India",
+            "arrivalDateTxt":"30 March 1935",
+            "arrivalDate":"30-Mar-35",
+            "departureDateTxt":"31-Mar-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               74.540469,
+               13.997762
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Kundapur (Kundapura)",
+            "desc":"Kundapura, Karnataka, India",
+            "arrivalDateTxt":"1 April 1935",
+            "arrivalDate":"1-Apr-35",
+            "departureDateTxt":"2-Apr-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               74.689992,
+               13.631596
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Malpe",
+            "desc":"Malpe, Karnataka, India",
+            "arrivalDateTxt":"2 April 1935",
+            "arrivalDate":"2-Apr-35",
+            "departureDateTxt":"3-Apr-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               74.704443,
+               13.355479
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Mangalore (Mangaluru)",
+            "desc":"Mangaluru, Karnataka, India",
+            "arrivalDateTxt":"5 April 1935",
+            "arrivalDate":"5-Apr-35",
+            "departureDateTxt":"6-Apr-35",
+            "objectNumber":"ANMS1249[039]",
+            "objectID":134054,
+            "url":"https://collections.sea.museum/objects/134054/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               74.855957,
+               12.914142
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Cannanore (Kannur)",
+            "desc":"Kannur, Kerala, India",
+            "arrivalDateTxt":"9 April 1935",
+            "arrivalDate":"9-Apr-35",
+            "departureDateTxt":"10-Apr-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               75.370366,
+               11.874478
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Mahé",
+            "desc":"Mahé, Puducherry, India",
+            "arrivalDateTxt":"10 April 1935",
+            "arrivalDate":"10-Apr-35",
+            "departureDateTxt":"11-Apr-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               75.536404,
+               11.702716
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Calicut (Kozhikode) ",
+            "desc":"Kozhikode, Kerala, India",
+            "arrivalDateTxt":"11 April 1935",
+            "arrivalDate":"11-Apr-35",
+            "departureDateTxt":"12-Apr-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               75.78041,
+               11.258753
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Ponnani",
+            "desc":"Ponnani, Kerala, India",
+            "arrivalDateTxt":"12 April 1935",
+            "arrivalDate":"12-Apr-35",
+            "departureDateTxt":"13-Apr-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               75.925901,
+               10.76772
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Cochin (Kochi)",
+            "desc":"Kochi, Kerala, India",
+            "arrivalDateTxt":"14 April 1935",
+            "arrivalDate":"14-Apr-35",
+            "departureDateTxt":"15-Apr-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               76.267304,
+               9.931233
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Kanyakumari",
+            "desc":"Kanyakumari, Kanniy?���kum?���ri, Tamil Nadu, India",
+            "arrivalDateTxt":"1 April 1935",
+            "arrivalDate":"1-Apr-35",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               77.549934,
+               8.079252
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Tuticorin (Thoothukudi)",
+            "desc":"Titicorin (Thoothukudi) Tamil Nadu, India",
+            "arrivalDateTxt":"24 April 1935",
+            "arrivalDate":"24-Apr-35",
+            "departureDateTxt":"26-Apr-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               78.134836,
+               8.764166
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Dhanushkodi",
+            "desc":"Dhanushkodi, Tamil Nadu, India",
+            "arrivalDateTxt":"30 April 1935",
+            "arrivalDate":"30-Apr-35",
+            "departureDateTxt":"1-May-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               79.418343,
+               9.179372
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Adam's Bridge (Rama's Bridge or Rama Setu)",
+            "desc":"Adam's Bridge (Rama's Bridge or Rama Setu) coast of Tamil Nadu, India",
+            "arrivalDateTxt":"1 May 1935",
+            "arrivalDate":"1-May-35",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               79.568519,
+               9.086491
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Talaimannar",
+            "desc":"Talaimannar, Sri Lanka",
+            "arrivalDateTxt":"1 May 1935",
+            "arrivalDate":"1-May-35",
+            "departureDateTxt":"2-May-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               79.734379,
+               9.08343
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Mannar",
+            "desc":"Mannar, Sri Lanka",
+            "arrivalDateTxt":"3 May 1935",
+            "arrivalDate":"3-May-35",
+            "departureDateTxt":"4-May-45",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               79.904415,
+               8.980974
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Kalpitiya",
+            "desc":"Kalpitiya, Sri Lanka",
+            "arrivalDateTxt":"7 May 1935",
+            "arrivalDate":"7-May-35",
+            "departureDateTxt":"7-May-35",
+            "objectNumber":"ANMS0544[014]",
+            "objectID":84330,
+            "url":"https://collections.sea.museum/objects/84330/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               79.759614,
+               8.229528
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Puttalam ",
+            "desc":"Puttalam, Puttalam District, North Western Province, Sri Lanka",
+            "arrivalDateTxt":"7 May 1935",
+            "arrivalDate":"7-May-35",
+            "departureDateTxt":"10-May-35",
+            "objectNumber":"ANMS0533[002]",
+            "objectID":85816,
+            "url":"https://collections.sea.museum/objects/85816/",
+            "quote":"Here and there I tried using inland waterways but was stopped time and again by abounding masses of people who wished to see the crazy German who lived off pills and travelled in a boat which, as was reported, could dive and fly. So I kept coming back out onto the clear, if more dangerous, open ocean."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               79.839386,
+               8.040791
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Colombo",
+            "desc":"Colombo, Western Province, Sri Lanka",
+            "arrivalDateTxt":"13 May 1935",
+            "arrivalDate":"13-May-35",
+            "departureDateTxt":"18-Aug-35",
+            "objectNumber":"ANMS0542[040]",
+            "objectID":84308,
+            "url":"https://collections.sea.museum/objects/84308/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               79.85327,
+               6.934287
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Galle",
+            "desc":"Galle, Southern Province, Sri Lanka",
+            "arrivalDateTxt":"19 August 1935",
+            "arrivalDate":"19-Aug-35",
+            "departureDateTxt":"20-Aug-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":"I have been in Ceylon for three months now and find it extraordinarily beautiful. Next Sunday I will leave Ceylon and attempt to reach Australia in maybe... three years. Half of my journey is over. I've had wonderful experiences and although it was difficult in the beginning, with growing success I found my task considerably easier."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               80.214938,
+               6.032846
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Dondra",
+            "desc":"Dondra, Sri Lanka",
+            "arrivalDateTxt":"1 August 1935",
+            "arrivalDate":"Aug-35",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               80.591057,
+               5.932041
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Batticaloa",
+            "desc":"Batticaloa, Sri Lanka",
+            "arrivalDateTxt":"1 August 1935",
+            "arrivalDate":"Aug-35",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               81.67473,
+               7.730997
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Trincomalee",
+            "desc":"Trincomalee, Sri Lanka",
+            "arrivalDateTxt":"5 September 1935",
+            "arrivalDate":"5-Sep-35",
+            "departureDateTxt":"8-Sep-35",
+            "objectNumber":"ANMS0537[037]",
+            "objectID":84875,
+            "url":"https://collections.sea.museum/objects/84875/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               81.234495,
+               8.576425
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Point Pedro",
+            "desc":"Point Pedro, Sri Lanka",
+            "arrivalDateTxt":"14 September 1935",
+            "arrivalDate":"14-Sep-35",
+            "departureDateTxt":"14-Sep-35",
+            "objectNumber":"ANMS1249[017]",
+            "objectID":134032,
+            "url":"https://collections.sea.museum/objects/134032/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               80.220977,
+               9.793788
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Vadduvakal ",
+            "desc":"Vadduvakal, Sri Lanka",
+            "arrivalDateTxt":"14 September 1935",
+            "arrivalDate":"14-Sep-35",
+            "departureDateTxt":"17-Sep-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               80.801095,
+               9.285262
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Kankesanturai",
+            "desc":"Kankesanturai, Sri Lanka",
+            "arrivalDateTxt":"17 September 1935",
+            "arrivalDate":"17-Sep-35",
+            "departureDateTxt":"19-Sep-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               80.047904,
+               9.805271
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Nagapatnam (Nagapattinam)",
+            "desc":"Nagapattinam, Tamil Nadu, India",
+            "arrivalDateTxt":"20 September 1935",
+            "arrivalDate":"20-Sep-35",
+            "departureDateTxt":"21-Sep-35",
+            "objectNumber":"ANMS0537[039]",
+            "objectID":84877,
+            "url":"https://collections.sea.museum/objects/84877/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               79.842389,
+               10.765608
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Cuddalore",
+            "desc":"Cuddalore, Duccalore district, Tamil Nadu, India",
+            "arrivalDateTxt":"22 September 1935",
+            "arrivalDate":"22-Sep-35",
+            "departureDateTxt":"24-Sep-35",
+            "objectNumber":"ANMS1249[013]",
+            "objectID":134028,
+            "url":"https://collections.sea.museum/objects/134028/",
+            "quote":"The surf was very difficult in these parts. From Cuddalore I came straight ? had to come straight on 90 miles in 26 hours.��� That is not however the longest I have done.��� I did 92 miles, not along the coast, but across the sea and it took me 48 hours. It there is a rough sea I have to be paddling for hours on end and balancing the thing too.��� It all lies in balancing it.��� Food I carry, tinned food and water in bottles.��� Sometimes I carry tender coconuts also - and lots of quinine"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               79.771369,
+               11.748042
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Pondicherry (Puducherry)",
+            "desc":"Puducherry, India",
+            "arrivalDateTxt":"26 September 1935",
+            "arrivalDate":"26-Sep-35",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               78.925532,
+               13.801001
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Marakkanam",
+            "desc":"Marakkanam, Tamil Nadu, India",
+            "arrivalDateTxt":"24 September 1935",
+            "arrivalDate":"24-Sep-35",
+            "departureDateTxt":"28-Sep-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               79.924867,
+               12.189943
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Buckingham Canal",
+            "desc":"Buckingham Canal, Tamil Nadu, India",
+            "arrivalDateTxt":"28 September 1935",
+            "arrivalDate":"28-Sep-35",
+            "departureDateTxt":"28-Sep-35",
+            "objectNumber":"BuckinghamCanal",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               80.265578,
+               12.995425
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Madras (Chennai)",
+            "desc":"Chennai, Tamil Nadu, India",
+            "arrivalDateTxt":"30 September 1935",
+            "arrivalDate":"30-Sep-35",
+            "departureDateTxt":"13-Oct-35",
+            "objectNumber":"ANMS1249[042]",
+            "objectID":134057,
+            "url":"https://collections.sea.museum/objects/134057/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               80.282953,
+               13.079691
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Bezwara (Vijayawada)",
+            "desc":"Vijayawada, Andhra Pradesh, India",
+            "arrivalDateTxt":"1 November 1935",
+            "arrivalDate":"1-Nov-35",
+            "departureDateTxt":"3-Nov-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               80.648015,
+               16.506174
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Coconada (Kakinada)",
+            "desc":"Kakinada, Andhra Pradesh, India",
+            "arrivalDateTxt":"7 November 1935",
+            "arrivalDate":"7-Nov-35",
+            "departureDateTxt":"24-Nov-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               82.247465,
+               16.989065
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Visakhapatnam",
+            "desc":"Visakhapatnam, Andhra Pradesh, India",
+            "arrivalDateTxt":"26 November 1935",
+            "arrivalDate":"26-Nov-35",
+            "departureDateTxt":"10-Dec-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               83.218482,
+               17.686816
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Bimlipatan (Bheemunipatnam)",
+            "desc":"Bheemunipatnam, Andhra Pradesh, India",
+            "arrivalDateTxt":"10 December 1935",
+            "arrivalDate":"10-Dec-35",
+            "departureDateTxt":"12-Dec-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               83.427,
+               17.907522
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Kalingapatnam ",
+            "desc":"Kalingapatnam, Andhra Pradesh, India",
+            "arrivalDateTxt":"14 November 1935",
+            "arrivalDate":"14-Nov-35",
+            "departureDateTxt":"20-Nov-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               84.121084,
+               18.338663
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Baruva",
+            "desc":"Baruva, Andhra Pradesh India",
+            "arrivalDateTxt":"27 December 1935",
+            "arrivalDate":"27-Dec-35",
+            "departureDateTxt":"28-Dec-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               84.58379,
+               18.88494
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Gopalpore (Gopalpur)",
+            "desc":"Gopalpur, Odisha, India",
+            "arrivalDateTxt":"28 December 1935",
+            "arrivalDate":"28-Dec-35",
+            "departureDateTxt":"29-Dec-35",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               84.862005,
+               19.264721
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Calcutta (Kolkata)",
+            "desc":"Kolkata, H?���ora, West Bengal, India",
+            "arrivalDateTxt":"13 January 1936",
+            "arrivalDate":"13-Jan-36",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[002]",
+            "objectID":84270,
+            "url":"https://collections.sea.museum/objects/84270/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               88.347602,
+               22.567746
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Barisal",
+            "desc":"Barisal, Bangladesh",
+            "arrivalDateTxt":"7 February 1936",
+            "arrivalDate":"7-Feb-36",
+            "departureDateTxt":"",
+            "objectNumber":"00036456",
+            "objectID":12855,
+            "url":"https://collections.sea.museum/objects/12855/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               90.35345,
+               22.701
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Khulna",
+            "desc":"Khulna, Bangladesh",
+            "arrivalDateTxt":"7 February 1936",
+            "arrivalDate":"7-Feb-36",
+            "departureDateTxt":"8-Feb-36",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               89.540328,
+               22.845641
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Chittagong",
+            "desc":"Chittagong District, Chittagong Division, Bangladesh",
+            "arrivalDateTxt":"19 February 1936",
+            "arrivalDate":"19-Feb-36",
+            "departureDateTxt":"23-Feb-36",
+            "objectNumber":"ANMS1249[015]",
+            "objectID":134030,
+            "url":"https://collections.sea.museum/objects/134030/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               91.723674,
+               22.423776
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Cox's Bazar",
+            "desc":"Cox's Bazar District, Chittagong Division, Bangladesh",
+            "arrivalDateTxt":"1 February 1936",
+            "arrivalDate":"1-Feb-36",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               92.039964,
+               21.165872
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Akyab (Sittwe)",
+            "desc":"Sittwe, Rakhine, Myanmar",
+            "arrivalDateTxt":"3 March 1936",
+            "arrivalDate":"3-Mar-36",
+            "departureDateTxt":"11-Mar-36",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               92.907921,
+               20.565939
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Kyaukpyu",
+            "desc":"Kyaukpyu, Rakhine, Myanmar",
+            "arrivalDateTxt":"12 March 1936",
+            "arrivalDate":"12-Mar-36",
+            "departureDateTxt":"13-Mar-36",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               93.545849,
+               19.421203
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Rangoon (Yangon)",
+            "desc":"Yangon, Myanmar",
+            "arrivalDateTxt":"3 April 1936",
+            "arrivalDate":"3-Apr-36",
+            "departureDateTxt":"16-Apr-36",
+            "objectNumber":"ANMS0533[009]",
+            "objectID":85823,
+            "url":"https://collections.sea.museum/objects/85823/",
+            "quote":"After my arrival in Rangoon, with the south west monsoon soon to set in, I tried to get in touch with one of the small Burmese movie production houses in order to be able to make documentaries of the beautiful river areas during the monsoon. Unfortunately, I only ever got as far as hearing the friendly Burmese explain to me repeatedly that their people had no interest in cultural films and the only films with an audience in Burma were love stories. Since I hardly fit the picture of a Burmese Casanova, I was forced to continue my journey from Rangoon to Penang during the monsoon."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               96.11339,
+               17.059434
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Moulmein (Mawlamyine)",
+            "desc":"Mawlamyine, Myanmar",
+            "arrivalDateTxt":"24 April 1936",
+            "arrivalDate":"24-Apr-36",
+            "departureDateTxt":"26-Apr-36",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               97.643961,
+               16.454317
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Tavoy (Dawei)",
+            "desc":"Dawei, Tanintharyi, Myanmar",
+            "arrivalDateTxt":"8 May 1936",
+            "arrivalDate":"8-May-36",
+            "departureDateTxt":"9-May-36",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               98.193279,
+               14.073292
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Mergui (Myeik)",
+            "desc":"Myeik, Tanintharyi, Myanmar",
+            "arrivalDateTxt":"May-June 1936",
+            "arrivalDate":"May-June 1936",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0534[004]",
+            "objectID":84751,
+            "url":"https://collections.sea.museum/objects/84751/",
+            "quote":"During my time on the Mergui Archipelago the monsoon suddenly started to blow. Those thunderstorms that suddenly speared out of nowhere, combined with gale force winds which simply blew my boat along for miles, improved my confidence in my little boat and provided me with many adventures."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               99.030227,
+               12.422432
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Victoria Point (Kawthaung)",
+            "desc":"Kawthaung, Kawthoung, Tanintharyi, Myanmar",
+            "arrivalDateTxt":"6 June 1936",
+            "arrivalDate":"6-Jun-36",
+            "departureDateTxt":"20-Jun-36",
+            "objectNumber":"ANMS0534[003]",
+            "objectID":84750,
+            "url":"https://collections.sea.museum/objects/84750/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               98.551196,
+               9.978747
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Phuket",
+            "desc":"Phuket Province, Thailand",
+            "arrivalDateTxt":"12 July 1936",
+            "arrivalDate":"12-Jul-36",
+            "departureDateTxt":"18-Jul-36",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               98.322126,
+               7.715984
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Kantang",
+            "desc":"Kantang, Trang Province, Thailand",
+            "arrivalDateTxt":"25 July 1936",
+            "arrivalDate":"25-Jul-36",
+            "departureDateTxt":"1-Aug-36",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               99.524078,
+               7.418892
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Penang",
+            "desc":"Penang, Malaysia",
+            "arrivalDateTxt":"10 August 1936",
+            "arrivalDate":"10-Aug-36",
+            "departureDateTxt":"23-Aug-36",
+            "objectNumber":"ANMS0542[010]",
+            "objectID":84278,
+            "url":"https://collections.sea.museum/objects/84278/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               100.255908,
+               5.406501
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Lumat",
+            "desc":"Lumat, Serak, Malaysia",
+            "arrivalDateTxt":"1 September 1936",
+            "arrivalDate":"1-Sep-36",
+            "departureDateTxt":"3-Sep-36",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               100.63222,
+               4.236302
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Port Swettenham (Port Klang)",
+            "desc":"Port Klang, Malaysia",
+            "arrivalDateTxt":"11 September 1936",
+            "arrivalDate":"11-Sep-36",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               101.39283,
+               2.999852
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Kuala Lumpur",
+            "desc":"Kuala Lumpur, Malaysia",
+            "arrivalDateTxt":"23 October 1936",
+            "arrivalDate":"23-Oct-36",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0534[005]",
+            "objectID":"84752",
+            "url":"https://collections.sea.museum/objects/84752/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               101.700953,
+               3.157098
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Port Dickson",
+            "desc":"Port Dickson, Malaysia",
+            "arrivalDateTxt":"18 September 1936",
+            "arrivalDate":"18-Sep-36",
+            "departureDateTxt":"19-Sep-36",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               101.796293,
+               2.52254
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Malacca",
+            "desc":"Malacca, Malaysia",
+            "arrivalDateTxt":"21 September 1936",
+            "arrivalDate":"21-Sep-36",
+            "departureDateTxt":"22-Sep-36",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               102.250087,
+               2.189594
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Maur",
+            "desc":"Maur, Malaysia",
+            "arrivalDateTxt":"23 September 1936",
+            "arrivalDate":"23-Sep-36",
+            "departureDateTxt":"23-Sep-36",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               100.431004,
+               5.369843
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Senggarang",
+            "desc":"Senggarang, Johor Malaysia",
+            "arrivalDateTxt":"26 September 1936",
+            "arrivalDate":"26-Sep-36",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               103.067011,
+               1.735118
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Kukup",
+            "desc":"Kukup, Johor Malaysia",
+            "arrivalDateTxt":"28 September 1936",
+            "arrivalDate":"28-Sep-36",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               103.446002,
+               1.32687
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Singapore",
+            "desc":"Singapore, Singapore",
+            "arrivalDateTxt":"1 October 1936",
+            "arrivalDate":"1-Oct-36",
+            "departureDateTxt":"28-Oct-36",
+            "objectNumber":"ANMS1249[025]",
+            "objectID":134040,
+            "url":"https://collections.sea.museum/objects/134040/",
+            "quote":"A new kayak was waiting for me at Singapore. I transferred my luggage, and set out for Sumatra"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               103.852038,
+               1.290453
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Sumatra",
+            "desc":"Riau, Indonesia",
+            "arrivalDateTxt":"Oct-Nov 1936",
+            "arrivalDate":"Oct-Nov 1936",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS1249[034]",
+            "objectID":134049,
+            "url":"https://collections.sea.museum/objects/134049/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               101.583949,
+               -0.142927
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Muntok (Mentok)",
+            "desc":"Mentok, West Bangka Regency, Bangka Belitung Islands, Indonesia",
+            "arrivalDateTxt":"20 November 1936",
+            "arrivalDate":"20-Nov-36",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               105.164301,
+               -2.065165
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Batavia (Jakarta)",
+            "desc":"Jakarta, Gambir, Jakarta Special Capital Region, Indonesia",
+            "arrivalDateTxt":"10 December 1936",
+            "arrivalDate":"10-Dec-36",
+            "departureDateTxt":"11-Jan-37",
+            "objectNumber":"ANMS0536[027]",
+            "objectID":84819,
+            "url":"https://collections.sea.museum/objects/84819/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               106.827183,
+               -6.175394
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Cheribon (Cirebon)",
+            "desc":"Cirebon, West Java, Indonesia",
+            "arrivalDateTxt":"16 January 1937",
+            "arrivalDate":"16-Jan-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0533[001]",
+            "objectID":85815,
+            "url":"https://collections.sea.museum/objects/85815/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               108.560848,
+               -6.713704
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Pekalongan",
+            "desc":"Pekalongan, Central Java, Indonesia",
+            "arrivalDateTxt":"20 January 1937",
+            "arrivalDate":"20-Jan-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[027]",
+            "objectID":84366,
+            "url":"https://collections.sea.museum/objects/84366/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               109.673176,
+               -6.893962
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Semarang",
+            "desc":"Semarang, Central Java, Indonesia",
+            "arrivalDateTxt":"25 January 1937",
+            "arrivalDate":"25-Jan-37",
+            "departureDateTxt":"1-Feb-37",
+            "objectNumber":"ANMS0534[006]",
+            "objectID":84753,
+            "url":"https://collections.sea.museum/objects/84753/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               110.422946,
+               -6.990404
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Jepara",
+            "desc":"Jepara, East Java, Indonesia",
+            "arrivalDateTxt":"1 February 1937",
+            "arrivalDate":"1-Feb-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0533[010]",
+            "objectID":85824,
+            "url":"https://collections.sea.museum/objects/85824/",
+            "quote":"Weather good and I got as far as just short of Japera. Entered a wrong bay by mistake. Slept in the boat. Beautiful sunset. The next morning I went across to Japera. Mouth of the river rather difficult to pass."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               112.72367,
+               -7.24039
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Pulau Mandalika",
+            "desc":"Jepara, Indonesia",
+            "arrivalDateTxt":"1 February 1937",
+            "arrivalDate":"1-Feb-37",
+            "departureDateTxt":"3-Feb-37",
+            "objectNumber":"ANMS0533[010]",
+            "objectID":85824,
+            "url":"https://collections.sea.museum/objects/85824/",
+            "quote":"Now had to go to Pulau Mandalika. Good weather and arrived at Mandalika at 4 o'clock. Went to the guard at the lighthouse to fetch drinking water.���People very friendly. Slept in the boat. Lots of rain overnight. Bad weather. Strong winds and can't continue. Went back to the guard at the lighthouse and slept there. Weather gets stormier. Strong rain. "
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               110.916667,
+               -6.366667
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Rembang",
+            "desc":"Rembang, Central Java, Indonesia",
+            "arrivalDateTxt":"3 February 1937",
+            "arrivalDate":"3-Feb-37",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               111.348626,
+               -6.705756
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Surabaya",
+            "desc":"Surabaya, Alun-Alun Contong, East Java, Indonesia",
+            "arrivalDateTxt":"10 February 1937",
+            "arrivalDate":"10-Feb-37",
+            "departureDateTxt":"18-Jan-39",
+            "objectNumber":"ANMS0535[032]",
+            "objectID":84790,
+            "url":"https://collections.sea.museum/objects/84790/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               112.737827,
+               -7.245972
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Pasuruan",
+            "desc":"Pasuruan, Wajak, East Java, Indonesia",
+            "arrivalDateTxt":"1 February 1937",
+            "arrivalDate":"1-Feb-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[307]",
+            "objectID":83870,
+            "url":"https://collections.sea.museum/objects/83870/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               112.906694,
+               -7.641989
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Probolinggo",
+            "desc":"Probolinggo, East Java province, Indonesia",
+            "arrivalDateTxt":"1 February 1937",
+            "arrivalDate":"1-Feb-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[028]",
+            "objectID":84296,
+            "url":"https://collections.sea.museum/objects/84296/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               113.203713,
+               -7.776423
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Bali",
+            "desc":"Bali, Indonesia",
+            "arrivalDateTxt":"3 March 1937",
+            "arrivalDate":"3-Mar-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0535[025]",
+            "objectID":84783,
+            "url":"https://collections.sea.museum/objects/84783/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               115.188916,
+               -8.409518
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Boeleleng (Buleleng)",
+            "desc":"Buleleng, Bali, Indonesia",
+            "arrivalDateTxt":"5 March 1937",
+            "arrivalDate":"",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[029]",
+            "objectID":84297,
+            "url":"https://collections.sea.museum/objects/84783/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               114.951687,
+               -8.223897
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Penida Island",
+            "desc":"Penida Island, Indonesia",
+            "arrivalDateTxt":"March 1937",
+            "arrivalDate":"",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[029]",
+            "objectID":84297,
+            "url":"https://collections.sea.museum/objects/84783/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               115.544423,
+               -8.727807
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Lombok",
+            "desc":"Lombok, Indonesia",
+            "arrivalDateTxt":"10 March 1937",
+            "arrivalDate":"10-Mar-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[013]",
+            "objectID":84281,
+            "url":"https://collections.sea.museum/objects/84281/",
+            "quote":"When in North Bali I again had a severe bout of malaria, and before I was more than half-way better I foolishly decided to try to reach Lombok. There was a strong current against me for most of that leg of the trip, and before I reached land malaria had the upper hand again and I was a miserable, shivering victim in its clutch.��� Some natives came down to the beach and half-carried me up to the village, where the Kepala Kampong (village chief) received me"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               116.324944,
+               -8.650979
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Soembawa (Sumbawa)",
+            "desc":"Sumbawa Besar, West Nusa Tenggara, Indonesia",
+            "arrivalDateTxt":"20 March 1937",
+            "arrivalDate":"20-Mar-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0535[030]",
+            "objectID":84788,
+            "url":"https://collections.sea.museum/objects/84788/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               117.314461,
+               -8.668044
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Bima",
+            "desc":"Bima, West Nusa Tenggara, Indonesia",
+            "arrivalDateTxt":"March-April 1937",
+            "arrivalDate":"March-April 1937",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0535[030]",
+            "objectID":84788,
+            "url":"https://collections.sea.museum/objects/84788/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               118.744903,
+               -8.464266
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Komodo",
+            "desc":"Kecamatan East Nusa Tenggara, Indonesia",
+            "arrivalDateTxt":"March-April 1937",
+            "arrivalDate":"March-April 1937",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[029]",
+            "objectID":84297,
+            "url":"https://collections.sea.museum/objects/84783/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               119.434741,
+               -8.589365
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Flores",
+            "desc":"Golo Ndari, East Nusa Tenggara, Indonesia",
+            "arrivalDateTxt":"10 April 1937",
+            "arrivalDate":"10-Apr-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[031]",
+            "objectID":84299,
+            "url":"https://collections.sea.museum/objects/84299/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               120.551605,
+               -8.503612
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Paloweh (Paluweh)",
+            "desc":"Paluweh, Sikka, Nusa Tenggara, Indonesia",
+            "arrivalDateTxt":"1 April 1937",
+            "arrivalDate":"Apr-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[031]",
+            "objectID":84299,
+            "url":"https://collections.sea.museum/objects/84299/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               121.710278,
+               -8.329167
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Maomere (Maumere)",
+            "desc":"Maumere, Kota Uneng, Alok, Kabupaten Sikka, Nusa Tenggara Tim., Indonesia",
+            "arrivalDateTxt":"15 April 1937",
+            "arrivalDate":"15-Apr-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[031]",
+            "objectID":84299,
+            "url":"https://collections.sea.museum/objects/84299/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               122.21469,
+               -8.62455
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Larantoeka (Larantuka)",
+            "desc":"Larantuka, East Flores Regency, East Nusa Tenggara, Indonesia",
+            "arrivalDateTxt":"1 April 1937",
+            "arrivalDate":"Apr-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[031]",
+            "objectID":84299,
+            "url":"https://collections.sea.museum/objects/84299/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               122.9494,
+               -8.32884
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Adonara",
+            "desc":"Adonara, East Flores Regency, East Nusa Tenggara, Indonesia",
+            "arrivalDateTxt":"1 April 1937",
+            "arrivalDate":"Apr-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[031]",
+            "objectID":84299,
+            "url":"https://collections.sea.museum/objects/84299/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               123.14999,
+               -8.25
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Lamakera",
+            "desc":"Lamakera, Watobuku, Solor Tim., Kabupaten Flores Timur, Nusa Tenggara Tim., Indonesia",
+            "arrivalDateTxt":"1 April 1937",
+            "arrivalDate":"Apr-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[031]",
+            "objectID":84299,
+            "url":"https://collections.sea.museum/objects/84299/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               123.15836,
+               -8.43525
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Lomblen (Lembata)",
+            "desc":"Lembata, Katakeja, Atadei, Lembata Regency, East Nusa Tenggara, Indonesia",
+            "arrivalDateTxt":"1 April 1937",
+            "arrivalDate":"Apr-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[031]",
+            "objectID":84299,
+            "url":"https://collections.sea.museum/objects/84299/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               123.46699,
+               -8.433
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Lamalera ",
+            "desc":"Lamalera, Lembata, Indonesia",
+            "arrivalDateTxt":"1 April 1937",
+            "arrivalDate":"Apr-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[062]",
+            "objectID":84401,
+            "url":"https://collections.sea.museum/objects/84401/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               123.144277,
+               -8.44616
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Pulau Pantar",
+            "desc":"East Nusa Tenggara, Indonesia",
+            "arrivalDateTxt":"1 April 1937",
+            "arrivalDate":"Apr-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[032]",
+            "objectID":84300,
+            "url":"https://collections.sea.museum/objects/84300/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               124.127635,
+               -8.450824
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Ombai Strait",
+            "desc":"Ombai Strait",
+            "arrivalDateTxt":"1 May 1937",
+            "arrivalDate":"1-May-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS1249[043]",
+            "objectID":134058,
+            "url":"https://collections.sea.museum/objects/134058/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               124.648333,
+               -8.706667
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Kalabahi",
+            "desc":"Kalabahi Tengah, East Nusa Tenggara, Indonesia",
+            "arrivalDateTxt":"29 July 1937",
+            "arrivalDate":"29-Jul-37",
+            "departureDateTxt":"30-Jul-37",
+            "objectNumber":"ANMS0534[008]",
+            "objectID":84755,
+            "url":"https://collections.sea.museum/objects/84755/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               124.533397,
+               -8.205228
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Erana",
+            "desc":"Erana, Indonesia",
+            "arrivalDateTxt":"",
+            "arrivalDate":"",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[033]",
+            "objectID":84301,
+            "url":"https://collections.sea.museum/objects/84301/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               125.00127,
+               -8.343738
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Dili",
+            "desc":"Dili, Timor Leste",
+            "arrivalDateTxt":"July-September 1937",
+            "arrivalDate":"July-September 1937",
+            "departureDateTxt":"26-Sep-37",
+            "objectNumber":"ANMS1249[010]",
+            "objectID":134025,
+            "url":"https://collections.sea.museum/objects/134025/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               125.560314,
+               -8.556856
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Wetar",
+            "desc":"Maluku, Indonesia",
+            "arrivalDateTxt":"10 June 1937",
+            "arrivalDate":"10-Jun-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[233]",
+            "objectID":84572,
+            "url":"https://collections.sea.museum/objects/134058/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               126.242775,
+               -7.786808
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Lakor",
+            "desc":"Maluku, Indonesia",
+            "arrivalDateTxt":"1 September 1937",
+            "arrivalDate":"1-Sep-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[034]",
+            "objectID":84302,
+            "url":"https://collections.sea.museum/objects/84302/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               128.166667,
+               -8.233333
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Timor Sea",
+            "desc":"Timor Sea",
+            "arrivalDateTxt":"September-October 1937",
+            "arrivalDate":"September-October 1937",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS1249[043]",
+            "objectID":134058,
+            "url":"https://collections.sea.museum/objects/134058/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               128.84765,
+               -7.90691
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Tepa",
+            "desc":"Tepa, Maluku, Indonesia",
+            "arrivalDateTxt":"16 October 1937",
+            "arrivalDate":"16-Oct-37",
+            "departureDateTxt":"15-May-38",
+            "objectNumber":"ANMS0545[286]",
+            "objectID":84625,
+            "url":"https://collections.sea.museum/objects/84625/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               129.599771,
+               -7.869102
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Saumlaki",
+            "desc":"Saumlaki, Maluku, Indonesia",
+            "arrivalDateTxt":"13 October 1937",
+            "arrivalDate":"13-Oct-37",
+            "departureDateTxt":"24-Nov-37",
+            "objectNumber":"ANMS0536[001]",
+            "objectID":84793,
+            "url":"https://collections.sea.museum/objects/84793/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               131.304876,
+               -7.974171
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Tanimbar Island",
+            "desc":"Maluku, Indonesia",
+            "arrivalDateTxt":"24 June 1937",
+            "arrivalDate":"24-Jun-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[164]",
+            "objectID":84503,
+            "url":"https://collections.sea.museum/objects/84503/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               132.438028,
+               -6.013476
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Kepulauan Kai",
+            "desc":"Maluku, Indonesia",
+            "arrivalDateTxt":"10 July 1937",
+            "arrivalDate":"10-Jul-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[156]",
+            "objectID":84495,
+            "url":"https://collections.sea.museum/objects/84495/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               132.75,
+               -5.583333
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Ambon",
+            "desc":"Ambon, Indonesia",
+            "arrivalDateTxt":"30 November 1937",
+            "arrivalDate":"30-Nov-37",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[035]",
+            "objectID":84303,
+            "url":"https://collections.sea.museum/objects/84303/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               128.190772,
+               -3.655393
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Kisar",
+            "desc":"Kisar, Maluku Barat Daya Regency, Maluku, Indonesia",
+            "arrivalDateTxt":"19 May 1938",
+            "arrivalDate":"19-May-38",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0536[002]",
+            "objectID":84794,
+            "url":"https://collections.sea.museum/objects/84794/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               127.190162,
+               -8.078982
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Fakfak",
+            "desc":"Fakfak Regency, West Papua, Indonesia",
+            "arrivalDateTxt":"1 November 1938",
+            "arrivalDate":"1-Nov-38",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0536[024]",
+            "objectID":84816,
+            "url":"https://collections.sea.museum/objects/84816/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               132.265828,
+               -2.885237
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Kokas",
+            "desc":"Kokas, West Papua, Indonesai",
+            "arrivalDateTxt":"16 November 1938",
+            "arrivalDate":"16-Nov-38",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[085]",
+            "objectID":84424,
+            "url":"https://collections.sea.museum/objects/84424/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               132.412903,
+               -2.720797
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Manokwari",
+            "desc":"Manokwari, West Papua, Indonesia",
+            "arrivalDateTxt":"22 December 1938",
+            "arrivalDate":"22-Dec-38",
+            "departureDateTxt":"31-Jan-39",
+            "objectNumber":"ANMS0538[026]",
+            "objectID":84941,
+            "url":"https://collections.sea.museum/objects/84941/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               134.078771,
+               -0.857154
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Nabire",
+            "desc":"Nabire, Nabire Regency, Indonesia",
+            "arrivalDateTxt":"26 February 1939",
+            "arrivalDate":"26-Feb-39",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[209]",
+            "objectID":84548,
+            "url":"https://collections.sea.museum/objects/84548/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               135.486596,
+               -3.383032
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Hollandia (Jayapura)",
+            "desc":"Jayapura, West Papua, Indonesia",
+            "arrivalDateTxt":"10 April 1939",
+            "arrivalDate":"10-Apr-39",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0536[042]",
+            "objectID":84834,
+            "url":"https://collections.sea.museum/objects/84548/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.703739,
+               -2.538754
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Vanimo",
+            "desc":"Vanimo District, Sandaun, Papua New Guinea",
+            "arrivalDateTxt":"April-May 1939",
+            "arrivalDate":"April-May 1939",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0538[027]",
+            "objectID":84942,
+            "url":"https://collections.sea.museum/objects/84942/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               141.333333,
+               -2.916667
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Madang",
+            "desc":"Madang, Madang District, Madang,  Papua New Guinea",
+            "arrivalDateTxt":"22 May 1939",
+            "arrivalDate":"22-May-39",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0535[033]",
+            "objectID":84791,
+            "url":"https://collections.sea.museum/objects/84791/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.808819,
+               -5.212911
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Lae",
+            "desc":"Lae, Morobe Province, Papua New Guinea",
+            "arrivalDateTxt":"May-June 1939",
+            "arrivalDate":"May-June 1939",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[069]",
+            "objectID":84408,
+            "url":"https://collections.sea.museum/objects/84408/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               146.999905,
+               -6.715525
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Salamaua",
+            "desc":"Salamaua,  Papua New Guinea",
+            "arrivalDateTxt":"May-June 1939",
+            "arrivalDate":"May-June 1939",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0536[040]",
+            "objectID":84832,
+            "url":"https://collections.sea.museum/objects/84832/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               147.044907,
+               -7.056973
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Lababia Island",
+            "desc":"Mumeng District, Morobe Province,  Papua New Guinea",
+            "arrivalDateTxt":"13 June 1939",
+            "arrivalDate":"13-Jun-39",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[194]",
+            "objectID":84533,
+            "url":"https://collections.sea.museum/objects/84533/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               147.166667,
+               -7.233333
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Zaka",
+            "desc":"Zaka, Morobe Province, Papua New Guinea",
+            "arrivalDateTxt":"17 June 1939",
+            "arrivalDate":"17-Jun-39",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[228]",
+            "objectID":84567,
+            "url":"https://collections.sea.museum/objects/84567/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               147.666667,
+               -7.816667
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Buna",
+            "desc":"Buna, Papua New Guinea",
+            "arrivalDateTxt":"21 June 1939",
+            "arrivalDate":"21-Jun-39",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS1249[018]",
+            "objectID":134033,
+            "url":"https://collections.sea.museum/objects/134033/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               148.413056,
+               -8.675254
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Moresby",
+            "desc":"Port Moresby, Papua New Guinea",
+            "arrivalDateTxt":"9 August 1939",
+            "arrivalDate":"9-Aug-39",
+            "departureDateTxt":"9-Aug-39",
+            "objectNumber":"ANMS0545[234]",
+            "objectID":84573,
+            "url":"https://collections.sea.museum/objects/84573/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               147.150654,
+               -9.478012
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Kerema",
+            "desc":"Kerema, Kerema District, Gulf, Papua New Guinea",
+            "arrivalDateTxt":"14 August 1939",
+            "arrivalDate":"14-Aug-39",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0545[090]",
+            "objectID":84429,
+            "url":"https://collections.sea.museum/objects/84429/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.776464,
+               -7.962502
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Auma Point",
+            "desc":"Auma, Papua New Guinea",
+            "arrivalDateTxt":"16 August 1939",
+            "arrivalDate":"16-Aug-39",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0533[015]",
+            "objectID":85829,
+            "url":"https://collections.sea.museum/objects/85829/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.4,
+               -7.933333
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Orokolo Bay",
+            "desc":"Orokolo Bay, Papua New Guinea",
+            "arrivalDateTxt":"2 September 1939",
+            "arrivalDate":"2-Sep-39",
+            "departureDateTxt":"4-Sep-39",
+            "objectNumber":"00037631",
+            "objectID":12212,
+            "url":"https://collections.sea.museum/objects/12212/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.3,
+               -7.916667
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Daru Island",
+            "desc":"Daru District, Western, Papua New Guinea",
+            "arrivalDateTxt":"5 September 1939",
+            "arrivalDate":"5-Sep-39",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0533[008]",
+            "objectID":85822,
+            "url":"https://collections.sea.museum/objects/85822/",
+            "quote":"In the early morning of 5 September 1939 he arrived at Daru, the exit port of Papua.  The next landing was to be Australia.  An old fisherman approached Speck and said to him: ?Congratulations on your landing in Daru, ? unfortunately I have bad news for you, -  war has broken out!?"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               143.2,
+               -9.083333
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Saibai Island",
+            "desc":"Saibai Island, Torres Strait, Queensland, Australia",
+            "arrivalDateTxt":"20 September 1939",
+            "arrivalDate":"20-Sep-39",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0542[011]",
+            "objectID":84279,
+            "url":"https://collections.sea.museum/objects/84279/",
+            "quote":"Three Australian police were waiting for him to berth his kayak. If this was the German invasion, these cops could handle it. \"Well done, feller!'' they said, shaking his hand warmly.������\"You've made it ? Germany to Australia in THAT.��� But now we've got a piece of bad news for you.��� You are an enemy alien.��� We are going to intern you.\" They did just that."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               142.6921,
+               -9.405128
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Thursday Island",
+            "desc":"Thursday Island, Queensland Australia",
+            "arrivalDateTxt":"1 September 1939",
+            "arrivalDate":"Sep-39",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS1249[019]",
+            "objectID":134034,
+            "url":"https://collections.sea.museum/objects/134034/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               142.219391,
+               -10.579917
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Cape York",
+            "desc":"Cape York, Queensland, Australia",
+            "arrivalDateTxt":"1 October 1939",
+            "arrivalDate":"1-Oct-39",
+            "departureDateTxt":"",
+            "objectNumber":"",
+            "objectID":"",
+            "url":"",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               142.533124,
+               -10.694871
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Tatura (internment camp)",
+            "desc":"Tatura, Shepparton, Victoria, Australia",
+            "arrivalDateTxt":"14 March 1939",
+            "arrivalDate":"14-Mar-39",
+            "departureDateTxt":"9-Jan-43",
+            "objectNumber":"00032899",
+            "objectID":15368,
+            "url":"https://collections.sea.museum/objects/15368/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.232996,
+               -36.43997
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Seymour",
+            "desc":"Seymour, Goulburn Valley Victoria, Australia",
+            "arrivalDateTxt":"10 January 1943",
+            "arrivalDate":"10-Jan-43",
+            "departureDateTxt":"20-Jan-43",
+            "objectNumber":"ANMS1249[040]",
+            "objectID":134055,
+            "url":"https://collections.sea.museum/objects/134055/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               145.161989,
+               -37.01608
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Melbourne",
+            "desc":"Melbourne, Victoria Australia",
+            "arrivalDateTxt":"24 January 1943",
+            "arrivalDate":"24-Jan-43",
+            "departureDateTxt":"28-Jan-43",
+            "objectNumber":"ANMS0542[004]",
+            "objectID":84272,
+            "url":"https://collections.sea.museum/objects/84272/",
+            "quote":"Identified by 2 mobile traffic police while he was wheeling a new bicycle up a hill in Kew, Oscar Walter Speck (36), a German internee who escaped from a Goulburn Valley internment camp on January 9, was recaptured at 5 pm today."
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               144.963058,
+               -37.813628
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Barmera (Loveday internment camp)",
+            "desc":"Loveday internment camp, South Australia",
+            "arrivalDateTxt":"1 June 1942",
+            "arrivalDate":"1-Jun-42",
+            "departureDateTxt":"1-Sep-46",
+            "objectNumber":"ANMS0539[016]",
+            "objectID":84974,
+            "url":"https://collections.sea.museum/objects/84974/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               140.444756,
+               -34.294948
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Lightning Ridge ",
+            "desc":"Lightning Ridge, New South Wales, Australia",
+            "arrivalDateTxt":"1 September 1946",
+            "arrivalDate":"1-Sep-46",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0548[001]",
+            "objectID":83959,
+            "url":"https://collections.sea.museum/objects/83959/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               147.985387,
+               -29.429348
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Sydney (Elizabeth Bay)",
+            "desc":"Elizabeth Bay, Sydney NSW, Australia",
+            "arrivalDateTxt":"1 May 1947",
+            "arrivalDate":"1-May-47",
+            "departureDateTxt":"",
+            "objectNumber":"ANMS0540[004]",
+            "objectID":85001,
+            "url":"https://collections.sea.museum/objects/85001/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.22841,
+               -33.87143
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "name":"Killcare",
+            "desc":"Killcare, Central Coast, New South Wales",
+            "arrivalDateTxt":"1950s",
+            "arrivalDate":"1950s",
+            "departureDateTxt":"17-Jun-05",
+            "objectNumber":"ANMS0545[319]",
+            "objectID":83882,
+            "url":"https://collections.sea.museum/objects/83882/",
+            "quote":""
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               151.358936,
+               -33.519511
+            ]
+         }
+      }
+   ]
+}
